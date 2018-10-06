@@ -1,0 +1,8 @@
+{
+    "name": "matrix/rahul",
+    "description": "Testing Package Descrption",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
